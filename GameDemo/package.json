@@ -1,0 +1,22 @@
+{
+  "name": "gamedemo",
+  "version": "1.0.0",
+  "description": "Demo Project for git,etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasssim2nine/GameDemo.git"
+  },
+  "author": "Jasim Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasssim2nine/GameDemo/issues"
+  },
+  "homepage": "https://github.com/jasssim2nine/GameDemo",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
